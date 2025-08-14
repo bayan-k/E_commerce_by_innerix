@@ -1,0 +1,1 @@
+export 'package:e_commerce_innerix/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
